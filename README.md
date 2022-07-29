@@ -1,5 +1,5 @@
-# Personal-website
-This site is programmed using html programming languages css bootstrap and is portfolio
+# portfolio
+This site is programmed using programming languages html  css bootstrap 
 
 
 ### **screenshot for wireframe**

@@ -1,0 +1,24 @@
+.home h1,
+.about .box-stats h3,
+.title-section h1 span,
+#menu li.active a,
+.contact .custom-span-contact i,
+.title-about 
+{
+	color: #f03737;
+}
+.about  .icon,
+.contact ul.social li a:hover,
+.header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover,
+body.header ul.icon-menu li.icon-box.active,  .header ul.icon-menu li.icon-box:hover,
+.btn,
+.header .icon-box h2,
+.home .color-block,
+.title-section hr ,
+.container .card{
+	background-color: #f03737 ;
+}
+.container .card{
+	    box-shadow: 0 5px 20px #da0202;
+
+}

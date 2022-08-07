@@ -14,11 +14,12 @@ screenshot for wireframe & mockup
 
 ![Untitled (2)_page-0005](https://user-images.githubusercontent.com/108932239/183075434-f1c65140-a9fb-4bc5-b756-3a89da642387.jpg)
 
-![Untitled (2)_page-0002](https://user-images.githubusercontent.com/108932239/183075469-097908f8-4e32-41f6-82d5-a28b1339b953.jpg)
+![Untitled (3)_page-0002](https://user-images.githubusercontent.com/108932239/183278398-fe1aaaf4-34b9-41aa-98f0-93306bbe6629.jpg)
 
-![Untitled (2)_page-0004](https://user-images.githubusercontent.com/108932239/183075499-053ba226-86db-4d83-9ec3-517ae3cae95a.jpg)
+![Untitled (3)_page-0004](https://user-images.githubusercontent.com/108932239/183278402-f97cdd2f-8e88-4dff-b684-da47602028b3.jpg)
 
-![Untitled (2)_page-0006](https://user-images.githubusercontent.com/108932239/183075524-6de62151-15d6-4d6f-9bae-cdd9f3a98016.jpg)
+![Untitled (3)_page-0006](https://user-images.githubusercontent.com/108932239/183278406-6ab10a43-4d75-43b0-952f-ca840e38f3b8.jpg)
+
 
 
 

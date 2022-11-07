@@ -1,4 +1,12 @@
 # portfolio
+
+
+https://user-images.githubusercontent.com/108932239/200387787-70cdbfaf-29c9-449e-a4a1-777a0c19f1b2.mp4
+
+
+
+
+
 **### portfolio contains 3 pages
 The first page "home" contains an introduction about me
 The second page displays "about" my personal data and my work
